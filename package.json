@@ -40,7 +40,7 @@
     "@babel/preset-env": "^7.11.0",
     "@vue/babel-helper-vue-jsx-merge-props": "^1.0.0",
     "@vue/babel-plugin-transform-vue-jsx": "^1.1.2",
-    "autoprefixer": "^7.1.2",
+    "autoprefixer": "^9.8.8",
     "babel-jest": "^27.2.1",
     "babel-loader": "^8.1.0",
     "chalk": "^2.0.1",
