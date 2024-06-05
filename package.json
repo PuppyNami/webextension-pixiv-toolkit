@@ -58,7 +58,7 @@
     "optimize-css-assets-webpack-plugin": "^5.0.3",
     "portfinder": "^1.0.28",
     "postcss-import": "^11.0.0",
-    "postcss-loader": "^2.0.8",
+    "postcss-loader": "^3.0.0",
     "postcss-url": "^7.2.1",
     "rollup": "^1.32.1",
     "rollup-plugin-commonjs": "^9.3.4",
